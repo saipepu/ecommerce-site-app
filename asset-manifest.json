@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ecommerce-site-fakestore/static/css/main.6e634355.chunk.css",
-    "main.js": "/ecommerce-site-fakestore/static/js/main.fbd53a87.chunk.js",
-    "main.js.map": "/ecommerce-site-fakestore/static/js/main.fbd53a87.chunk.js.map",
+    "main.css": "/ecommerce-site-fakestore/static/css/main.d84f2e8c.chunk.css",
+    "main.js": "/ecommerce-site-fakestore/static/js/main.80cd95e3.chunk.js",
+    "main.js.map": "/ecommerce-site-fakestore/static/js/main.80cd95e3.chunk.js.map",
     "runtime-main.js": "/ecommerce-site-fakestore/static/js/runtime-main.9c829ed3.js",
     "runtime-main.js.map": "/ecommerce-site-fakestore/static/js/runtime-main.9c829ed3.js.map",
     "static/css/2.58a45539.chunk.css": "/ecommerce-site-fakestore/static/css/2.58a45539.chunk.css",
-    "static/js/2.79bec5ba.chunk.js": "/ecommerce-site-fakestore/static/js/2.79bec5ba.chunk.js",
-    "static/js/2.79bec5ba.chunk.js.map": "/ecommerce-site-fakestore/static/js/2.79bec5ba.chunk.js.map",
+    "static/js/2.e97665c4.chunk.js": "/ecommerce-site-fakestore/static/js/2.e97665c4.chunk.js",
+    "static/js/2.e97665c4.chunk.js.map": "/ecommerce-site-fakestore/static/js/2.e97665c4.chunk.js.map",
     "index.html": "/ecommerce-site-fakestore/index.html",
     "static/css/2.58a45539.chunk.css.map": "/ecommerce-site-fakestore/static/css/2.58a45539.chunk.css.map",
-    "static/css/main.6e634355.chunk.css.map": "/ecommerce-site-fakestore/static/css/main.6e634355.chunk.css.map",
-    "static/js/2.79bec5ba.chunk.js.LICENSE.txt": "/ecommerce-site-fakestore/static/js/2.79bec5ba.chunk.js.LICENSE.txt",
+    "static/css/main.d84f2e8c.chunk.css.map": "/ecommerce-site-fakestore/static/css/main.d84f2e8c.chunk.css.map",
+    "static/js/2.e97665c4.chunk.js.LICENSE.txt": "/ecommerce-site-fakestore/static/js/2.e97665c4.chunk.js.LICENSE.txt",
     "static/media/electronic.dfc86c6e.png": "/ecommerce-site-fakestore/static/media/electronic.dfc86c6e.png",
     "static/media/jewelery.d41e2ed6.png": "/ecommerce-site-fakestore/static/media/jewelery.d41e2ed6.png",
     "static/media/men.b1447536.png": "/ecommerce-site-fakestore/static/media/men.b1447536.png",
@@ -20,8 +20,8 @@
   "entrypoints": [
     "static/js/runtime-main.9c829ed3.js",
     "static/css/2.58a45539.chunk.css",
-    "static/js/2.79bec5ba.chunk.js",
-    "static/css/main.6e634355.chunk.css",
-    "static/js/main.fbd53a87.chunk.js"
+    "static/js/2.e97665c4.chunk.js",
+    "static/css/main.d84f2e8c.chunk.css",
+    "static/js/main.80cd95e3.chunk.js"
   ]
 }
